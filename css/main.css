@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+
+}
+
+#clock {
+    font-size: 150px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#input {
+    width: 100px;
+    height: 30px;
+}
+
+.buttons button {
+    width: 100px;
+    height: 30px;
+}
+
+.buttons {
+    margin-top: 50px;
+}
